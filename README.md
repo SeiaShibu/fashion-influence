@@ -6,7 +6,6 @@ A web platform that analyzes influencer trends to discover emerging fashion styl
 ## 🔧 Tech Stack
 - Frontend: React.js
 - Backend: Node.js
-- Database: MongoDB
 
 ## 🚀 Features
 - Trend tracking from influencer content
